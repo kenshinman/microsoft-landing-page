@@ -1,0 +1,15 @@
+@media (max-width: 768px) {
+  .ion-ios-arrow-left, .ion-ios-arrow-right {
+    font-size: 1.3em;
+    top: 40%;
+  }
+
+  h3{
+    font-size: 1;
+  }
+
+  .video > iframe{
+    max-width: 100%;
+    min-height: 350px;
+  }
+}
